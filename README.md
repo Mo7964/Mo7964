@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Mohammed
+👋 Hi, I’m Mohammed
+
 👨🏻‍💻 Aspiring DevSecOps Engineer 
-👨🏻‍🎓 Currently studying a OTHM level 5 diploma in IT, whilst also building on my DevSecOps Knowledge
-👷‍♂️ Spent the last few years working in multiple indstries, gaining extensive skills. 
 
+👨🏻‍🎓 Currently studying a level 5 diploma in IT, whilst also building on my DevSecOps Knowledge and project management knowledge.
 
-Mo7964/Mo7964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👷‍♂️ Spent the last few years working in multiple industries, whilst also studying-completing a level 4 diploma in cyber security, gaining a variety of skills, useful for any organisation I contribute in.
