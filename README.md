@@ -1,9 +1,5 @@
 ![Banner](https://via.placeholder.com/1000x150/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 
-<div style="background-color:#1E90FF; color:white; padding:15px; border-radius:5px;">
-    <p align="center">Risk Management & DevSecOps Enthusiast</p>
-</div>
-
 # Hello, I'm Mohammed 👋
 
 ![Risk Management](https://img.shields.io/badge/Risk%20Management%20Enthusiast-1E90FF?style=for-the-badge)
