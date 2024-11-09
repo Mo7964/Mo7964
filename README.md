@@ -13,11 +13,8 @@ I'm currently studying **DevSecOps** and **Project Management**, passionate abou
 - **Level 4 Diploma in Cyber Security**  
 - Currently pursuing **Level 5 Diploma in IT**
 
-## Learning Progress 🚀
-![DevSecOps Progress](https://progress-bar.dev/50/?scale=100&title=DevSecOps&color=1E90FF&width=300)
+[![Learning DevSecOps](https://img.shields.io/badge/Learning-DevSecOps-blue?style=for-the-badge)](https://www.linkedin.com/in/mohammed-ahmed-409bb6117)
 
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ahmed-409bb6117)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo7964)
-
-![Pulsing Blue Circle](https://www.svgviewer.dev/s/zgGLHdxL)
