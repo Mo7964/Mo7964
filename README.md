@@ -1,3 +1,8 @@
+<div style="background-color:#1E90FF; color:white; padding:15px; border-radius:5px;">
+    <h2 align="center">Welcome to My GitHub Profile</h2>
+    <p align="center">DevSecOps Enthusiast | Project Management Student</p>
+</div>
+
 # Hello, I'm Mohammed 👋
 
 🌐 **About Me**  
