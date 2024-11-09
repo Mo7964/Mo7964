@@ -12,7 +12,7 @@
 ![Project Management](https://img.shields.io/badge/Project%20Management-1E90FF?style=for-the-badge&logo=trello&logoColor=white)
 
 🌐 **About Me**  
-I'm currently studying **DevSecOps** and **Project Management**, passionate about secure development practices, CI/CD pipelines, and cloud security. I’m also exploring ways to bring security, development, and operations together for seamless project delivery.
+I'm currently learning **DevSecOps** and **Project Management**, passionate about secure development practices, CI/CD pipelines, and cloud security. I’m also exploring ways to bring security, development, and operations together for seamless project delivery.
 
 ![Learning DevSecOps](https://img.shields.io/badge/Learning-DevSecOps-blue?style=for-the-badge)
 ![Learning Project Management](https://img.shields.io/badge/Learning-Project%20Management-blue?style=for-the-badge)
