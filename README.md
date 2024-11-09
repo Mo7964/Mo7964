@@ -3,6 +3,8 @@
     <p align="center">Risk Management & DevSecOps Enthusiast</p>
 </div>
 
+![Banner](https://via.placeholder.com/1000x150/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
+
 # Hello, I'm Mohammed 👋
 
 🌐 **About Me**  
