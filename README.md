@@ -19,3 +19,5 @@ I'm currently studying **DevSecOps** and **Project Management**, passionate abou
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ahmed-409bb6117)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo7964)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
