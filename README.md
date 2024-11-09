@@ -16,3 +16,19 @@ I'm currently studying **DevSecOps** and **Project Management**, passionate abou
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ahmed-409bb6117)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo7964)
+
+## Try My Guessing Game! 🎮
+Guess a number between 1 and 100! (run the code below to try it out):
+
+```python
+import random
+
+number = random.randint(1, 100)
+guess = None
+while guess != number:
+    guess = int(input("Guess the number: "))
+    if guess < number:
+        print("Too low! Try again.")
+    elif guess > number:
+        print("Too high! Try again.")
+print("Congrats! You've guessed the right number.")
