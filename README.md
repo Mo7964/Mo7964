@@ -1,5 +1,6 @@
+![Banner](https://via.placeholder.com/1000x150/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
+
 <div style="background-color:#1E90FF; color:white; padding:15px; border-radius:5px;">
-    <h2 align="center">![Banner](https://via.placeholder.com/1000x150/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile)</h2>
     <p align="center">Risk Management & DevSecOps Enthusiast</p>
 </div>
 
